@@ -4,7 +4,7 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url('https://replit.com/@DamonRocha/skybot-dao-starter-v3#public/dronebg.jpg');
+  background-image: url('public/dronebg.jpg');
   color: #fff;
   overflow-x: hidden;
 }
